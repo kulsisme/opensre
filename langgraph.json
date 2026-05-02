@@ -10,6 +10,7 @@
   "http": {
     "app": "./app/webapp.py:app"
   },
+  "python_version": "3.12",
   "env": ".env",
   "image_distro": "wolfi"
 }
